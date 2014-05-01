@@ -3,4 +3,4 @@ Simple-mind-reader
 
 ###A simple program that can read you mind###
 
-*Coming soon !*
+![Screenshot](http://puu.sh/8uIf4.png)
