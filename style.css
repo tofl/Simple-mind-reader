@@ -1,0 +1,52 @@
+body {
+	width: 1080px;
+	margin: auto;
+	font-family: Verdana;
+}
+
+#header {
+	padding-bottom: 10px;
+	border-bottom: 1px dashed black;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+ol {
+	width: 500px;
+	margin: auto;
+}
+
+.numbers {
+	width: 900px;
+	margin: auto;
+	text-align: justify;
+	line-height: 50px;
+	padding-bottom: 50px;
+}
+
+.truth_button {
+	background-image: linear-gradient(#FFFFFF, #F1F1F1);
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 10px;
+    width: 140px;
+    text-decoration: none;
+    color: #00438A;
+}
+
+.h1_choice {
+	margin-bottom: 0;
+}
+
+.big {
+	margin-top: 0;
+	text-align: center;
+	font-size: 2.5em;
+}
+
+.very_big {
+	font-size: 10em;
+	color: #5F0000;
+}
